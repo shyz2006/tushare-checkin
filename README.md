@@ -1,6 +1,6 @@
 # Tushare 自动签到
 
-一个基于 GitHub Actions 的 Tushare 每日自动签到脚本。
+一个基于 GitHub Actions 的 Tushare 每日自动签到脚本。 
 
 通过调用 Tushare 个人中心的签到接口：
 
